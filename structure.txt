@@ -1,0 +1,18 @@
+churnshield_pro/
+│
+├── app.py                       # Main Streamlit app
+├── requirements.txt             # Required Python packages
+├
+│
+├── models/                      # Folder to save trained models
+│   ├── churn_model.pkl
+│   └── preprocessor.pkl
+│
+├
+│
+├── modules/               # contains modules scripts
+│   ├── train.py           # Contains functions to train 
+│   ├── predict.py         # Contains functions to predict 
+│   └── chatbot.py         # Contains chatbot-related functions
+│
+└── .venv/                  # Virtual environment (optional but recommended)

@@ -1,0 +1,11 @@
+matplotlib
+plotly
+langchain-groq
+groq
+python-dotenv
+pandas
+streamlit
+numpy
+joblib
+scikit-learn
+
